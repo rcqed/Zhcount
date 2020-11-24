@@ -18,4 +18,6 @@ jieba，re
 
 ## 感谢：
 
-jieba：https://github.com/fxsjy/jieba
+https://www.cnblogs.com/zd983886992/p/8664045.html
+
+https://github.com/fxsjy/jieba
